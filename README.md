@@ -41,7 +41,7 @@ I worked on this project by myself
 
 ## What you learned
 
-The project worked overall after a bit of debugging (a few portions of the tutorial I followed had deprecated). It works surprisingly well, though of course it's not sophisticated enough to be anyway near perfect.
+The project worked overall after a bit of debugging (a few portions of the tutorial I followed had deprecated). It works surprisingly well, though of course it's not sophisticated enough to be anywhere near perfect.
 
 I learned a lot about some of the foundational work needed for computer vision-related programs; in particular, how to break images into chunks, extract relevant information, and store it. Doing image search itself is easy, so long as you have relevant information on the image you're querying and the database of images you're using to find those similar images. The hard part is determining what information to extract and how to extract it. This applies to all sorts of things beyond image search, whether it's image classification, enhancement, or other related functions. 
 
@@ -53,4 +53,5 @@ Brandon Feng
 
 ## Acknowledgments
 
+Tutorial I followed: 
 https://www.pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/
