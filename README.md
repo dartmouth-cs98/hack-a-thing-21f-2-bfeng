@@ -18,7 +18,7 @@ The program then returned the following images that it found most similar to the
 
 Not perfect, but at least 3/4 have mountains and a blue sky.
 
-To build an index.csv file (which means indexing a dataset of images and writing the results of index.csv), run the following command-line argument: 
+To build an index.csv file (which means indexing a dataset of images and writing the results into index.csv), run the following command-line argument: 
 
 `python index.py --dataset [path to dataset directory] --index index.csv`
 
