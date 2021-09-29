@@ -32,7 +32,7 @@ To run an actual search, run the following argument:
 
 So if I wanted to search for images similar to "201100.jpg" in the "dataset" folder, I could run:
 
-`python search.py --index index.csv --query dataset/108100.png --result-path dataset`
+`python search.py --index index.csv --query dataset/201100.png --result-path dataset`
 
 
 ## Who Did What?
